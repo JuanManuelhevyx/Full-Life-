@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346257290721",
+    "project_id": "full-life-d6358",
+    "storage_bucket": "full-life-d6358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346257290721:android:395848c4fc69071c0d0ea0",
+        "android_client_info": {
+          "package_name": "com.example.curso_drawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346257290721-dtvo50srt368n4oeirv9thmg3prk06pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwrrR4Pc1ViWK1AMqc9Gp23l1XjJipi54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346257290721-dtvo50srt368n4oeirv9thmg3prk06pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
